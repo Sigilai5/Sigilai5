@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Brian Sigilai
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me briansigilai@gmail.com
 
